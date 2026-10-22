@@ -4,7 +4,10 @@
 
 ## 项目列表
 
-- [keresearch](https://github.com/Infinite-Monkey-Lab/keresearch) — 面向 ZCode、Claude Code 与 Codex 的科研 Agent Skills。
+- **[keresearch](https://github.com/Infinite-Monkey-Lab/keresearch)** — 面向 ZCode、Claude Code 与 Codex 的科研 Agent Skills。
+  - 状态：维护状态待确认；维护者：待确认。
+  - 许可证：MIT（见仓库 LICENSE）。
+  - [安装与快速开始](https://github.com/Infinite-Monkey-Lab/keresearch#安装) · [Issues](https://github.com/Infinite-Monkey-Lab/keresearch/issues) · [Releases](https://github.com/Infinite-Monkey-Lab/keresearch/releases)
 
 ## 收录字段规范
 
