@@ -1,13 +1,15 @@
-# 研究工具与基础设施
+# 🧰 研究工具与基础设施
 
-收录帮助研究、实验、写作、评测、协作与交付的工具和基础设施。
+这里收录支持科研规划、实验、论文写作、评测与协作的工具。分类仓库是项目目录；项目代码和维护活动保留在各自的主页。
 
-## 项目文件夹
+## 项目列表
 
-- [keresearch](projects/keresearch/README.md)：覆盖科研项目规划、论文结构与学术写作的 Agent Skills。
+- [keresearch](https://github.com/Infinite-Monkey-Lab/keresearch) — 面向 ZCode、Claude Code 与 Codex 的科研 Agent Skills。
 
-项目源代码与提交历史保留在原仓库：[Infinite-Monkey-Lab/keresearch](https://github.com/Infinite-Monkey-Lab/keresearch)。此目录作为分类收录入口；内容迁入将另行保留作者署名、许可与历史记录。
+## 提交项目
 
-## 新增项目
+[提交研究工具收录申请](https://github.com/orgs/Infinite-Monkey-Lab/discussions/new/choose)。请附项目主页、解决的问题、安装或使用方式，以及维护状态。
 
-在 projects/ 下按项目名建立目录，放入项目说明、运行方式、许可和来源信息；如项目另有源仓库，请注明并保留历史。
+---
+
+[返回组织主页](https://github.com/Infinite-Monkey-Lab) · [查看全部分类](https://github.com/Infinite-Monkey-Lab)
