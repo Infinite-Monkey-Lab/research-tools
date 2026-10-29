@@ -3,7 +3,7 @@
 > 为同一台电脑上的多个 AI 客户端提供可查询、可更正、可追溯的共享长期记忆。
 
 - **分类：** [研究工具与基础设施](https://github.com/Infinite-Monkey-Lab/research-tools)
-- **状态：** Prototype（2026-10-29）：本地 MCP 核心可用，完整插件安装仍待验证。
+- **状态：** Active（开发维护中，v0.2.0），可通过本地 MCP 接入使用。
 - **维护者：** [@Piao-2024](https://github.com/Piao-2024)
 - **许可证：** [MIT](https://github.com/Infinite-Monkey-Lab/shared-agent-memory/blob/main/LICENSE)
 - **项目主页：** https://github.com/Infinite-Monkey-Lab/shared-agent-memory
@@ -34,4 +34,4 @@
 
 ## 更新记录
 
-- 2026-10-29：项目转入 Infinite Monkey Lab 并公开，核对原型状态、维护者、MIT 许可与使用入口。
+- 2026-10-29：项目转入 Infinite Monkey Lab 并公开，核对维护状态、维护者、MIT 许可与使用入口。
