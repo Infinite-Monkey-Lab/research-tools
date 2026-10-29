@@ -9,6 +9,12 @@
   - 许可证：MIT（见仓库 LICENSE）。
   - [安装与快速开始](https://github.com/Infinite-Monkey-Lab/keresearch#安装) · [Issues](https://github.com/Infinite-Monkey-Lab/keresearch/issues) · [Releases](https://github.com/Infinite-Monkey-Lab/keresearch/releases)
 
+- **[Shared Agent Memory](https://github.com/Infinite-Monkey-Lab/shared-agent-memory)** — 让 Codex、Claude Code 等 MCP 客户端共用本地 SQLite 长期记忆，支持中文关键词检索、项目范围和版本历史。
+  - 状态：Prototype（2026-10-29）；维护者：[@Piao-2024](https://github.com/Piao-2024)。
+  - 许可证：[MIT](https://github.com/Infinite-Monkey-Lab/shared-agent-memory/blob/main/LICENSE)；第三方依赖分别遵循各自许可。
+  - 平台：macOS 本机使用；Ubuntu/macOS 核心 CI 已通过，Windows 与插件完整安装尚未验证。
+  - [安装与快速开始](https://github.com/Infinite-Monkey-Lab/shared-agent-memory#快速开始) · [项目条目](projects/shared-agent-memory/README.md) · [Issues](https://github.com/Infinite-Monkey-Lab/shared-agent-memory/issues)
+
 ## 收录字段规范
 
 每个项目条目应链接到独立主页，并说明用途、当前状态、维护者、许可证、安装或快速开始方式、支持的平台和问题反馈入口。未知信息标注“待确认”，不要推测许可证或维护状态。
